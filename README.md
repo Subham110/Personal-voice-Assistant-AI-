@@ -1,4 +1,4 @@
-# Personal-voice-Assistant-AI-
+# Personal Voice Assistant AI
 
 ### Personal Voice Assistant: Your Digital Multitasker
 
